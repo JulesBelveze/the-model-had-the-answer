@@ -1,0 +1,10 @@
+upstream/
+their_code/
+logs/
+edit/
+data/
+u_astra.npz
+figures/
+fonts/
+__pycache__/
+*.log

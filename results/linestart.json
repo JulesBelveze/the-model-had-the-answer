@@ -1,0 +1,50 @@
+{
+ "pre": {
+  "n": 234,
+  "gap_median": 15.625,
+  "gap_p10": 11.875,
+  "gap_min": 1.0,
+  "p_end_pen_mean": 0.0027826308057858394,
+  "share_p_gt_0": 0.008547008547008548
+ },
+ "loop": {
+  "n": 237,
+  "gap_median": 14.75,
+  "gap_p10": 10.75,
+  "gap_min": 6.375,
+  "p_end_pen_mean": 0.0,
+  "share_p_gt_0": 0.0
+ },
+ "pre_fin": {
+  "n": 119,
+  "gap_median": 14.8125,
+  "gap_p10": 10.5,
+  "gap_min": 3.25,
+  "p_end_pen_mean": 0.0004313942514547781,
+  "share_p_gt_0": 0.008403361344537815
+ },
+ "last256": {
+  "n": 61,
+  "gap_median": 14.25,
+  "gap_p10": 10.25,
+  "gap_min": 6.625,
+  "p_end_pen_mean": 0.0,
+  "share_p_gt_0": 0.0
+ },
+ "line start within 24 tokens of a stop": {
+  "n": 287,
+  "gap_median": 12.1875,
+  "gap_p10": 4.0,
+  "gap_min": 0.75,
+  "p_end_pen_mean": 0.018667533669218368,
+  "share_p_gt_0": 0.08362369337979095
+ },
+ "stop (147)": {
+  "n": 147,
+  "gap_median": 1.375,
+  "gap_p10": 0.0,
+  "gap_min": 0.0,
+  "p_end_pen_mean": 0.5515770636194822,
+  "share_p_gt_0": 1.0
+ }
+}
