@@ -1,7 +1,7 @@
-# The model had the answer. It couldn't stop thinking.
+# This model knows the answer. It just can't stop thinking.
 
 Code, traces and per-sample results for the blog post
-[The model had the answer. It couldn't stop thinking.](https://julesbelveze.github.io/the-model-had-the-answer/)
+[This model knows the answer. It just can't stop thinking.](https://julesbelveze.github.io/the-model-had-the-answer/)
 
 The post follows up on MIT CSAIL's
 [Sparks of Weight-Space Programming](https://github.com/RikiyaT/lm_understand-logs), where an

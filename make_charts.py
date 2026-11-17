@@ -199,7 +199,7 @@ print({k: (len(v), [round(float(z), 2) for z in np.percentile(v, [25, 50, 75])])
 
 # ---- 6. social preview: the post title over three bars, opaque, 1200x630
 rows = [("Base model", 8.2, BAR), ("Thinking stopped at 8k,\nanswer started for it", 49.8, ACCENT), ("Astra's weight edit", 51.8, LINE)]
-fig, ax = frame("The model had the answer. It couldn't stop thinking.", "Qwen3.5-0.8B on MATH-500",
+fig, ax = frame("This model knows the answer. It just can't stop thinking.", "Qwen3.5-0.8B on MATH-500",
                 "Accuracy", figsize=(8, 4.2), left=0.365)
 y = np.arange(len(rows))[::-1]
 for yi, (lab, v, c) in zip(y, rows):
